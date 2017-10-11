@@ -5,7 +5,7 @@ class Home extends Component {
         return (
             <div className="Home">
                 <h1>Welcome to React Demo</h1>
-                <h2>Web designed with React + Ant Design</h2>
+                <h2>Web development with React + Ant Design</h2>
                 <p>By <strong>Antonio Hernández</strong></p>
             </div>
         )
